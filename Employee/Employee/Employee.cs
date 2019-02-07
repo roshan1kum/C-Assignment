@@ -43,23 +43,20 @@ namespace Employee
             methodCalled("GetDepartmentName");
             return DepartmentName;
         }
-        public int GetId(int id)
+        public void UpdateProperty(int id)
         {
-            methodCalled("GetID");
             ID = id;
-            return ID;
         }
-        public string GetName(string name)
+        public void UpdateProperty(int id,string name)
         {
-            methodCalled("GetID");
+            ID = id;
             Name = name;
-            return Name;
         }
-        public string GetDepartmentName(string dept)
+        public void UpdateProperty(int id,string name,string dept)
         {
-            methodCalled("GetID");
+            ID = id;
+            Name = name;
             DepartmentName = dept;
-            return  DepartmentName;
         }
         
     }

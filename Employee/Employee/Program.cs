@@ -32,10 +32,10 @@ namespace Employee
             Console.WriteLine("enter the updated DepartmentName");
             departmentName = Console.ReadLine();
             
-
-            Console.WriteLine("updated ID:" + emp.GetId(id));
-            Console.WriteLine("updated Name:" + emp.GetName(name));
-            Console.WriteLine("updated Department name:" + emp.GetDepartmentName(departmentName));
+            emp.UpdateProperty(id,name);
+            Console.WriteLine("updated ID:" + emp.GetId());
+            Console.WriteLine("updated Name:" + emp.GetName());
+            Console.WriteLine("updated Department name:" + emp.GetDepartmentName());
 
         }
         static void MethodCalling(string mName)
