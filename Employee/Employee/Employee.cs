@@ -45,16 +45,19 @@ namespace Employee
         }
         public int GetId(int id)
         {
+            methodCalled("GetID");
             ID = id;
             return ID;
         }
         public string GetName(string name)
         {
+            methodCalled("GetID");
             Name = name;
             return Name;
         }
         public string GetDepartmentName(string dept)
         {
+            methodCalled("GetID");
             DepartmentName = dept;
             return  DepartmentName;
         }
