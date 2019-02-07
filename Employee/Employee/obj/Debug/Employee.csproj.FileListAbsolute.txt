@@ -1,0 +1,14 @@
+C:\Users\roshan\source\repos\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\roshan\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\roshan\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\roshan\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\roshan\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\roshan\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\roshan\source\repos\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\roshan\Desktop\New folder\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\roshan\Desktop\New folder\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\roshan\Desktop\New folder\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\roshan\Desktop\New folder\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\New folder\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\New folder\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\roshan\Desktop\New folder\Employee\Employee\obj\Debug\Employee.pdb
